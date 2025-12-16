@@ -54,6 +54,6 @@ Passionate about building secure applications and protecting digital environment
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bedashto&show_icons=true&locale=en&layout=compact&theme=dracula" alt="bedashto" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bedashto&theme=dracula" alt="bedashto" /></p>
+<p><img align="center" src="https://github-readme-streak-stats-eight.vercel.app?user=bedashto&theme=dracula" alt="bedashto" /></p>
 
 Open to collaborations on cybersecurity tools, secure web/apps, or automation projects. Let's build something secure! 🚀
