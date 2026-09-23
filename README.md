@@ -1,10 +1,13 @@
-### Hi, I'm Sutonio 
+<h1 align="center">Helllooo, I'm Sutonio Viddy</h1>
 
-
-<p align="center"> IT Professional | Systems Administration • Web Development • Cybersecurity • Automation </p>
+<h3 align="center"> IT Professional | Systems Administration • Web Development • Cybersecurity • Automation </h3>
 
 <p align="center">
-IT Professional with extensive experience in systems administration, technical support, and endpoint management, combined with web development, cybersecurity, and practical AI skills.
+  <img src="https://komarev.com/ghpvc/?username=bedashto&label=Profile%20views&color=0e75b6&style=flat" alt="bedashto" />
+</p>
+
+<p align="center">
+A dedicated IT Professional with extensive experience in systems administration, technical support, and endpoint management, combined with web development, cybersecurity, and practical AI skills.
 </p>
 
 ### Core Focus
